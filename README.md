@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abialeonce
 - 👀 I’m interested in reading and baking
-- 🌱 I’m currently learning javascript and sql
+- 🌱 I’m currently learning data analytics, javascript and sql
 - 💞️ I’m looking to collaborate on beginner projects to build a portfolio
 - 📫 How to reach me abia.leonce28@gmail.com
 
